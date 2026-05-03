@@ -43,17 +43,3 @@ Enjoy the popcorn!
 ## Publishing
 
 Find published build at: <https://twilitwave.itch.io/satets-shooting-range>
-
-## Team Contact Info
-
-Andrew Corum (Producer) – [andrewRcorum@gmail.com](mailto:andrewRcorum@gmail.com)
-
-Brady Campbell (Tech Art) – [Bradycampbellk12@gmail.com](mailto:Bradycampbellk12@gmail.com)
-
-Jacob Nielsen (Producer) – [TwilitWave@gmail.com](mailto:TwilitWave@gmail.com)
-
-Pluto She (Engineer) – [plutoshe@gmail.com](mailto:plutoshe@gmail.com)
-
-Tezika Zhou (Engineer) – [tezikazhou@gmail.com](mailto:tezikazhou@gmail.com)
-
-Zach Gainer (Artist) – [gainer.zach@gmail.com](mailto:gainer.zach@gmail.com)
